@@ -1,11 +1,11 @@
 The future of Yammy Network is based on these essential components:
 
-Smart contract applications 
-Masternodes offering 
-Global marketplace with crypto payments
-Global streaming platform based on blockchain technology
-Global betting and predictions platform
-Decentralized crypto exchange
+• Smart contract applications
+• Masternodes offering
+• Global marketplace with crypto payments
+• Global betting and predictions platform
+• Global streaming platform based on blockchain technology
+• Decentralized crypto exchange
 
 Yammy ERC20 token (YMM) and Yammy Coin (YMA) are core elements of Yammy Network eco-system.
 YMM is empowered by the Ethereum Virtual Machine and compatible with all Ethereum infrastructure and service.
