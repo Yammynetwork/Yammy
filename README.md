@@ -1,3 +1,5 @@
+YAMMY. Blockchain is simple.
+
 The future of Yammy Network is based on these essential components:
 
 • Smart contract applications
