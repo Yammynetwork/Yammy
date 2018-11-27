@@ -1,5 +1,15 @@
-YAMMY. Blockchain is simple.
+Yammy Network – the smart solution for the smart ones.
 
+Our goal is to create the new reality one can call LEGO of blockchain.
+Yammy Network is about to introduce the elements of Blockchain 3.0 features for the first time ever.
+What does it mean?
+Imagine the compact, easy to read and understand portions of program code which combined may built a Smart Contract or Decentralized Application (dApp) of your choice.
+
+Same way small LEGO bricks creates a building or even a starship without engineering Yammy gives users the opportunity to make their own blockchain applications and contracts even without knowledge of programming.
+
+Moreover, Yammy Network going to create the whole ecosystem of web services and apps based on this principe.
+
+Yammy – the future is here.
 The future of Yammy Network is based on these essential components:
 
 • Smart contract applications
